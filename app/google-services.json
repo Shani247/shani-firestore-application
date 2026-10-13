@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "164147034983",
+    "project_id": "hadartips",
+    "storage_bucket": "hadartips.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164147034983:android:2d997151f0b87173260dc2",
+        "android_client_info": {
+          "package_name": "com.katza.hadertips222"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwfu6vF-H-7FYPKpuMdtNWCzbcwXaFW7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
